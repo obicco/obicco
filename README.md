@@ -1,8 +1,8 @@
 ## Hiya, I'm Oskar! 👋🏻
 ### Welcome to my GitHub profile, thank you for visiting!  
-I'm a junior Software Engineer at Decathlon, currently working with my team on Tech and Commerce Solutions.
-I define myselft as a determined and dynamic person who loves to face challenges and constantly test himself, Kaizen (改善) is my key to life. 
-Mostly interested in everything related to technology, computers and financial markets.
+I'm a junior Software Engineer at Decathlon, currently working with my team on Tech and Commerce Solutions.\
+I define myselft as a determined and dynamic person who loves to face challenges and constantly test himself, Kaizen (改善) is my key to life.\
+Mostly interested in everything related to technology, computers and financial markets.\
 Swimmer and technology lover from childhood.
 
 You can chat me in english, italian and polish (maybe also in japanese in future).
