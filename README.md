@@ -5,7 +5,7 @@ I define myselft as a determined and dynamic person who loves to face challenges
 Mostly interested in everything related to technology, computers and financial markets.\
 Swimmer and technology lover from childhood.
 
-You can chat me in english, italian and polish (maybe also in japanese in future).
+You can chat me in english, italian and polish (maybe also in japanese in the future).
 
 <a href="https://github.com/obicco" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
